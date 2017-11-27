@@ -117,6 +117,7 @@ public class MainJanKen {
 				}
 				JOptionPane.showMessageDialog(null, "Final score: " +hp1 +" for " + p1+ " and "+ hp2 + " for "+p2);
 				}
+			System.exit(0);
 }
 }
 }
