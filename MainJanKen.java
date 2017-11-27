@@ -24,7 +24,7 @@ public class MainJanKen {
 			int button1 =JOptionPane.showConfirmDialog(null,"Are you ready to duel?", p2, JOptionPane.OK_OPTION);
 			if (button1 == JOptionPane.OK_OPTION) {
 			    
-				//Nedan är actionphase lägg till elementalstyle
+				//Nedan är actionphase lägg till elementalstyle (Det är fan dags att fixa detta nu)
 				do{
 					
 					JPasswordField jpass1 = new JPasswordField(1);
